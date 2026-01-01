@@ -1,0 +1,92 @@
+{
+  "koerperbau": {
+    "name": "Körperbau und Erscheinungsbild",
+    "description": "Beschreibt den allgemeinen Körperbau und das Erscheinungsbild einer Person basierend auf den Dosha-Typen Vata, Pitta und Kapha.",
+    "attributes_by_dosha": {
+      "Vata": [
+        "dünn",
+        "hervorstehende Knochen, Sehnen und Adern",
+        "nicht gut aussehend, unbeeindruckendes Äusseres"
+      ],
+      "Pitta": [
+        "mittelgroß",
+        "wohlgeformt, athletisch",
+        "attraktives Aussehen"
+      ],
+      "Kapha": [
+        "kräftig, stämmig",
+        "weiche, abgerundete Körperformen",
+        "ansehnliches, angenehmes Äusseres"
+      ]
+    }
+  },
+  "haut": {
+    "name": "Haut",
+    "description": "Beschreibt die Hautmerkmale und -eigenschaften basierend auf den Dosha-Typen Vata, Pitta und Kapha.",
+    "attributes_by_dosha": {
+      "Vata": [
+        "trocken",
+        "rau",
+        "rissig"
+      ],
+      "Pitta": [
+        "warm",
+        "leicht ölig feucht",
+        "weich",
+        "rosafarben",
+        "Muttermale, Sommersprossen",
+        "Neigung zu faltiger Haut",
+        "Pickel"
+      ],
+      "Kapha": [
+        "dick",
+        "feucht ölig",
+        "kalt",
+        "weich",
+        "glatt"
+      ]
+    },
+    "hautfaerbung_by_dosha": {
+      "Vata": [
+        "dunkel",
+        "braun",
+        "matt"
+      ],
+      "Pitta": [
+        "rosafarben",
+        "kupferfarben",
+        "rötlich",
+        "leicht gebräunt"
+      ],
+      "Kapha": [
+        "hell",
+        "weisslich"
+      ]
+    },
+    "symptoms_by_dosha": {
+      "Vata": [
+        "no symptoms"
+      ],
+      "Pitta": [
+        "Eiterung",
+        "Entzündung",
+        "Ekzeme",
+        "Blasenbildung"
+      ],
+      "Kapha": [
+        "Juckreiz"
+      ]
+    },
+    "allergies_by_dosha": {
+      "Vata": [
+        "no allergies"
+      ],
+      "Pitta": [
+        "Hautrötungen", "Entzündungen", "Juckreiz"
+      ],
+      "Kapha": [
+        "vermehrter Schleimbildung", "Schwellungen"
+      ]
+    }
+  }
+}
