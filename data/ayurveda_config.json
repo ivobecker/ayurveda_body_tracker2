@@ -2,6 +2,11 @@
   "koerperbau": {
     "name": "Körperbau und Erscheinungsbild",
     "description": "Beschreibt den allgemeinen Körperbau und das Erscheinungsbild einer Person basierend auf den Dosha-Typen Vata, Pitta und Kapha.",
+    "scoring_category": {
+      "Vata": "Körperbau und Erscheinungsbild",
+      "Pitta": "Körperbau und Erscheinungsbild",
+      "Kapha": "Körperbau und Erscheinungsbild"
+    },
     "attributes_by_dosha": {
       "Vata": [
         "dünn",
@@ -18,6 +23,11 @@
         "weiche, abgerundete Körperformen",
         "ansehnliches, angenehmes Äusseres"
       ]
+    },
+    "scoring_by_dosha": {
+      "Vata": 1,
+      "Pitta": 2,
+      "Kapha": 3
     }
   },
   "haut": {
@@ -82,10 +92,13 @@
         "no allergies"
       ],
       "Pitta": [
-        "Hautrötungen", "Entzündungen", "Juckreiz"
+        "Hautrötungen",
+        "Entzündungen",
+        "Juckreiz"
       ],
       "Kapha": [
-        "vermehrter Schleimbildung", "Schwellungen"
+        "vermehrter Schleimbildung",
+        "Schwellungen"
       ]
     }
   }

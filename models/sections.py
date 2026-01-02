@@ -29,12 +29,18 @@ class DoshaMap(BaseModel):
         return value
 
 
+class DoshaScoring(BaseModel):
+    Vata: int = Field(0, ge=0, le=3)
+    Pitta: int = Field(0, ge=0, le=3)
+    Kapha: int = Field(0, ge=0, le=3)
+
+
 # 3️⃣ Base Section Model
 class BaseDoshaSection(BaseModel):
     name: str = Field(..., min_length=1)
     description: str = Field(..., min_length=1)
     attributes_by_dosha: DoshaMap
-
+    scoring_by_dosha: DoshaScoring
 
 # 4️⃣ Haut Section (Extended)
 class HautSection(BaseModel):
