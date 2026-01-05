@@ -1,4 +1,4 @@
-from models.config import AyurvedaConfig
+from core.models.sections import AyurvedaConfig
 from .json_loader import load_model_from_json
 
 

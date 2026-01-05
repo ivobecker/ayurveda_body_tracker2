@@ -14,3 +14,7 @@ Beispiele für Tracker-Tools:
 Physische Planer/Workbooks: Speziell gestaltete Bücher (z.B. von Amazon erhältlich), die leere Seiten für das Tracking und Erklärungen zu ayurvedischen Prinzipien enthalten.
 Apps: Es gibt digitale Tools (oft als "Habit Tracker" oder "Ayurveda Planner" bezeichnet), die Funktionen für die Dosha-Bestimmung und das Tracking bieten.
 Selbstbeobachtung: Das Führen eines einfachen Tagebuchs, um Symptome (Stuhl, Energie, Stimmung) und Ernährung zu notieren, ist ein grundlegender ayurvedischer Ansatz. 
+
+
+
+User Intent Agent

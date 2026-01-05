@@ -1,0 +1,16 @@
+value,type
+thin,body_frame
+medium,body_frame
+large,body_frame
+variable,metabolism
+strong,metabolism
+slow,metabolism
+irregular,appetite
+intense,appetite
+stable,appetite
+dry,skin
+warm,skin
+oily,skin
+restless,mind
+sharp,mind
+calm,mind
